@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RoomDemo</string>
+    <string name="hello_msg_from_fragment"> </string>
+</resources>
